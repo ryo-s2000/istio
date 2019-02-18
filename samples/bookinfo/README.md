@@ -1,5 +1,6 @@
 # Bookinfo Sample
-See https://istio.io/docs/guides/bookinfo.html.
+official documents https://istio.io/docs/guides/bookinfo.html.
+Qiita https://qiita.com/Ladicle/items/e949b0f68ac18b7a95d8
 
 ## Build docker images without pushing
 ```
